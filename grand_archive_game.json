@@ -1,6 +1,6 @@
 {
   "name": "Grand Archive",
-  "menuBackgroundImage": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.png",
+  "menuBackgroundImage": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.jpg",
   "defaultRessources": {
     "backgrounds": [
       "https://api.gatcg.com/cards/images/1tisZwrn8k.jpg"
@@ -11,7 +11,7 @@
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_playable_cards.json",
-    "cardBack": "https://saltypony290.github.io/Grand_Archive_TCG/card_back.png"
+    "cardBack": "https://saltypony290.github.io/Grand_Archive_TCG/card_back.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
