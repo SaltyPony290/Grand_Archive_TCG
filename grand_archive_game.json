@@ -5,13 +5,13 @@
     "backgrounds": [
       "https://api.gatcg.com/cards/images/1tisZwrn8k.jpg"
     ],
-    "decksUrl": "https://your-site.example/GrandArchiveDecks.json"
+    "decksUrl": "https://raw.githubusercontent.com/SaltyPony290/Grand_Archive_TCG/main/GrandArchiveDecks.json"
   },
   "customHelp": "Start by placing your level 0 champion from your Material Deck onto the Champion section. Materialize regalia and champion cards from the Material Deck. Play reserve-cost cards from the Main Deck. Track damage with counters on champions.",
   "cardRotation": 0,
   "cards": {
-    "dataUrl": "https://github.com/SaltyPony290/Grand_Archive_TCG/blob/main/grand_archive_cards.json",
-    "cardBack": "https://index.gatcg.com/_next/static/media/card-back.0c8f1d6d.png"
+    "dataUrl": "https://raw.githubusercontent.com/SaltyPony290/Grand_Archive_TCG/main/grand_archive_playable_cards.json",
+    "cardBack": "https://raw.githubusercontent.com/SaltyPony290/Grand_Archive_TCG/main/card_back.png"
   },
   "deckBuilding": {
     "mainFilters": [
