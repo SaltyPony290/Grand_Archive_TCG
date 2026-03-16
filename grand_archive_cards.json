@@ -4571,7 +4571,7 @@
         "type": "REGALIA / ITEM",
         "cost": "10",
         "image": "https://api.gatcg.com/cards/images/o1yp6dnpyk.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fabled Azurite Fatestone",
@@ -5395,7 +5395,7 @@
         "type": "ITEM",
         "cost": "3",
         "image": "https://api.gatcg.com/cards/images/l51jtpmz99.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Companion Fatestone",
@@ -6135,7 +6135,7 @@
         "type": "ITEM",
         "cost": "4",
         "image": "https://api.gatcg.com/cards/images/fnmebi9g1z.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Craggy Fatestone",
@@ -6165,7 +6165,7 @@
         "type": "REGALIA / WEAPON",
         "cost": "0",
         "image": "https://api.gatcg.com/cards/images/vxlre1fgoq.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Huaji of Heaven's Rise",
@@ -6956,7 +6956,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/pvt3dyd9hl.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fatestone of Revelations",
@@ -8694,7 +8694,7 @@
         "type": "REGALIA / ITEM",
         "cost": "7",
         "image": "https://api.gatcg.com/cards/images/pad88gbrd6.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fabled Ruby Fatestone",
@@ -9590,7 +9590,7 @@
         "type": "REGALIA / ITEM",
         "cost": "9",
         "image": "https://api.gatcg.com/cards/images/3wd5cj6hua.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fabled Sapphire Fatestone",
@@ -10420,7 +10420,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/oq4thcay04.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fatestone of Unrelenting",
@@ -11419,7 +11419,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/k3vi17q38q.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Lavaplume Fatestone",
@@ -11514,7 +11514,7 @@
         "type": "REGALIA / ITEM",
         "cost": "8",
         "image": "https://api.gatcg.com/cards/images/s8kw1lr5x1.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fabled Emerald Fatestone",
@@ -13535,7 +13535,7 @@
         "type": "ITEM",
         "cost": "3",
         "image": "https://api.gatcg.com/cards/images/4qlu3h72ef.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fatestone of Heaven",
@@ -19359,7 +19359,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/my4ewbvtio.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fatestone of Balance",
@@ -19688,7 +19688,7 @@
         "type": "ITEM",
         "cost": "3",
         "image": "https://api.gatcg.com/cards/images/c5owescxw5.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fatestone of Progress",
@@ -21567,7 +21567,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/zss3seprzg.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Idle Fatestone",
@@ -28722,7 +28722,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/n0ymex2d5b.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Coiled Fatestone",
@@ -39579,7 +39579,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/k1fe1h278d.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Fluvial Fatestone",
@@ -42157,7 +42157,7 @@
         "type": "ITEM",
         "cost": "4",
         "image": "https://api.gatcg.com/cards/images/890bfcng82.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Pelagic Fatestone",
@@ -43198,7 +43198,7 @@
         "type": "ITEM",
         "cost": "2",
         "image": "https://api.gatcg.com/cards/images/k9fuegkoep.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Submerged Fatestone",
@@ -45307,7 +45307,7 @@
         "type": "ITEM",
         "cost": "6",
         "image": "https://api.gatcg.com/cards/images/1ad93vlnnp.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Beseeched Fatestone",
@@ -46037,7 +46037,7 @@
         "type": "ITEM",
         "cost": "3",
         "image": "https://api.gatcg.com/cards/images/8wq7de4dde.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Cyclonic Fatestone",
@@ -52031,7 +52031,7 @@
         "type": "ITEM",
         "cost": "3",
         "image": "https://api.gatcg.com/cards/images/ai5n9t7q4x.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Wildgrowth Fatestone",
@@ -58016,7 +58016,7 @@
         "type": "UNIQUE / ALLY",
         "cost": "4",
         "image": "https://api.gatcg.com/cards/images/wbkh09outj.jpg",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Lu Bu, Indomitable Titan",
