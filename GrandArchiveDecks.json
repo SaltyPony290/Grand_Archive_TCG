@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Guo Jia Fatestone",
+    "id": "cbee7540-dc13-45e8-9723-2d10b043bcfd",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-16T23:04:08.054570+00:00",
+    "lastModifiedAt": "2026-03-16T23:04:08.054581+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-001"
+        },
+        {
+          "count": 1,
+          "id": "HVN-007"
+        },
+        {
+          "count": 1,
+          "id": "HVN-008"
+        },
+        {
+          "count": 1,
+          "id": "HVN-009"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-005"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-007"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-008"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-019"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-010"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-011"
+        },
+        {
+          "count": 1,
+          "id": "ReC-HVF-012"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "ReC-HVF-013"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-014"
+        },
+        {
+          "count": 3,
+          "id": "ReC-HVF-015"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-016"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-017"
+        },
+        {
+          "count": 2,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-019"
+        },
+        {
+          "count": 2,
+          "id": "ReC-HVF-020"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-021"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-022"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-023"
+        },
+        {
+          "count": 2,
+          "id": "ReC-HVF-024"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-025"
+        },
+        {
+          "count": 2,
+          "id": "ReC-HVF-026"
+        },
+        {
+          "count": 3,
+          "id": "ReC-HVF-028"
+        },
+        {
+          "count": 4,
+          "id": "ReC-HVF-029"
+        },
+        {
+          "count": 3,
+          "id": "ReC-HVF-030"
+        },
+        {
+          "count": 3,
+          "id": "ReC-HVF-031"
+        }
+      ]
+    }
+  }
+]
