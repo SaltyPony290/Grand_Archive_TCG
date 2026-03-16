@@ -1,6 +1,6 @@
 {
   "name": "Grand Archive",
-  "menuBackgroundImage": "https://raw.githubusercontent.com/SaltyPony290/Grand_Archive_TCG/main/grand_archive_banner.png"",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/SaltyPony290/Grand_Archive_TCG/main/grand_archive_banner.png",
   "defaultRessources": {
     "backgrounds": [
       "https://api.gatcg.com/cards/images/1tisZwrn8k.jpg"
