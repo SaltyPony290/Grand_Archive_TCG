@@ -105,11 +105,9 @@
           "Memory",
           "Material Deck"
         ],
-
         "categoriesAlreadyOnBoard": [
           "Material Deck"
         ],
-        
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": true,
@@ -156,6 +154,7 @@
                 }
               ]
             }
+          ]
         },
         "autoPlayFromHand": {
           "CHAMPION": "Champion",
@@ -224,8 +223,8 @@
             "alignment": "DECK",
             "isHorizontalAllowed": false,
             "displayedTitle": "Material Deck"
+          }
         }
-       }
       }
     }
   }
