@@ -145,7 +145,6 @@
                   }
                 }
               ],
-              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
@@ -164,7 +163,6 @@
                   }
                 }
               ],
-              "isSymetricalForOpponents": false
             }
           ]
         },
