@@ -144,8 +144,8 @@
           "DOMAIN": "Domains",
           "ITEM": "Regalia",
           "WEAPON": "Regalia",
-          "ACTION": "Allies",
-          "ATTACK": "Allies"
+          "ACTION": "Stack",
+          "ATTACK": "Stack"
         },
         "autoPlayFromStack": {
           "CHAMPION": "Champion",
@@ -153,8 +153,8 @@
           "DOMAIN": "Domains",
           "ITEM": "Regalia",
           "WEAPON": "Regalia",
-          "ACTION": "Allies",
-          "ATTACK": "Allies"
+          "ACTION": "Discard",
+          "ATTACK": "Discard"
         },
         "sectionsDict": {
           "Champion": {
