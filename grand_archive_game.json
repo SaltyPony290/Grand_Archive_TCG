@@ -59,7 +59,7 @@
       "mulligan": {
         "info": "Grand Archive has no mulligan. Start by placing a level 0 champion into play.",
         "startingHandSize": 0,
-        "triggeredByButton": "false",
+        "triggeredByButton": false,
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -188,7 +188,6 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
           "CHAMPION": "Champion",
           "ALLY": "Allies",
