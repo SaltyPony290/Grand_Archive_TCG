@@ -140,7 +140,8 @@
                     "width": "20vh"
                   }
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
@@ -158,7 +159,8 @@
                     "width": "10vh"
                   }
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
