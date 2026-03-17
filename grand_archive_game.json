@@ -216,7 +216,7 @@
           "Memory": {
             "title": "Memory",
             "isHidden": "yes",
-            "height": "LARGE",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "displayedTitle": "Memory",
             "isGroupForbidden": false,
