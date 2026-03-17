@@ -216,7 +216,7 @@
           "Memory": {
             "title": "Memory",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "displayedTitle": "Memory",
             "isGroupForbidden": false,
@@ -225,7 +225,7 @@
           "Material Deck": {
             "title": "Material Deck",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
             "displayedTitle": "Material Deck"
