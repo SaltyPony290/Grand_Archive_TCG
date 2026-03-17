@@ -134,7 +134,7 @@
                 {
                   "section": "Allies",
                   "style": {
-                    "flex": 1
+                    "flex": 1,
                     "marginRight": "3vh"
                   }
                 },
@@ -144,7 +144,7 @@
                     "width": "20vh"
                   }
                 }
-              ],
+              ]
             },
             {
               "direction": "row",
@@ -162,7 +162,7 @@
                     "width": "10vh"
                   }
                 }
-              ],
+              ]
             }
           ]
         },
