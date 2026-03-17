@@ -109,7 +109,6 @@
           "Intent",
           "Memory",
           "Banishment",
-          "Stack"
         ],
 
         "layout": {
@@ -119,24 +118,23 @@
             {
               "direction": "column",
               "style": {
-                "width": "70%"
+                "width": "80%"
               },
               "content": [
                 {
                   "direction": "row",
-                  "style": false,
                   "content": [
                     {
                       "section": "Domains",
                       "style": {
                         "width": "18vh",
-                        "marginRight": "1vh"
+                        "marginRight": "2vh"
                       }
                     },
                     {
                       "section": "Champion",
                       "style": {
-                        "marginRight": "3vh"
+                        "marginRight": "4vh"
                       }
                     },
                     {
@@ -145,13 +143,12 @@
                         "width": "22vh"
                       }
                     }
-                  ],
-                  "isSymetricalForOpponents": true
+                  ]
                 },
                 {
                   "section": "Allies",
                   "style": {
-                    "marginTop": "0.5rem"
+                    "marginTop": "1rem"
                   }
                 },
                 {
@@ -165,27 +162,29 @@
                   "style": {
                     "marginTop": "0.5rem"
                   }
+                },
+                {
+                  "section": "Memory",
+                  "style": {
+                    "marginTop": "1rem"
+                  }
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             },
             {
               "direction": "column",
               "style": {
-                "width": "24vh",
-                "justifyContent": "start"
+                "width": "20%",
+                "justifyContent": "flex-end"
               },
               "content": [
                 {
-                  "section": "Memory",
-                  "style": false
-                },
-                {
                   "section": "Banishment",
-                  "style": false
+                  "style": {
+                    "marginBottom": "1rem"
+                  }
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             }
           ]
         },
