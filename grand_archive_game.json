@@ -119,14 +119,14 @@
                 {
                   "section": "Domains",
                   "style": {
-                    "width": "14vh",
+                    "width": "20vh",
                     "marginRight": "1vh"
                   }
                 },
                 {
                   "section": "Champion",
                   "style": {
-                    "width": "5vh",
+                    "width": "14vh",
                     "marginLeft": "2vh",
                     "marginRight": "3vh"
                   }
@@ -153,14 +153,12 @@
                 {
                   "section": "Memory",
                   "style": {
-                    "marginTop": "1rem",
                     "flex": 1
                   }
                 },
                 {
                   "section": "Material Deck",
                   "style": {
-                    "marginTop": "1rem",
                     "width": "10vh"
                   }
                 }
