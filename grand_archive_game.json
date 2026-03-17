@@ -16,8 +16,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "elements",
-      "classes",
+      "Element",
+      "Class",
       "level"
     ],
     "formats": [
@@ -163,6 +163,7 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
+          "CHAMPION": "Champion",
           "ALLY": "Allies",
           "ACTION": "Stack",
           "ATTACK": "Stack",
@@ -172,6 +173,7 @@
           "WEAPON": "Regalia"
         },
         "autoPlayFromStack": {
+          "CHAMPION": "Champion",
           "ALLY": "Allies",
           "ACTION": "Discard",
           "ATTACK": "Discard",
