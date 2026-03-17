@@ -189,7 +189,7 @@
             }
           ]
         },
-
+        "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
           "CHAMPION": "Champion",
           "ALLY": "Allies",
@@ -200,75 +200,128 @@
           "ITEM": "Regalia",
           "WEAPON": "Regalia"
         },
-
         "autoPlayFromStack": {
           "CHAMPION": "Champion",
           "ALLY": "Allies",
-          "ACTION": "Banishment",
-          "ATTACK": "Banishment",
+          "ACTION": "Discard",
+          "ATTACK": "Discard",
           "DOMAIN": "Domains",
           "PHANTASIA": "Phantasia",
           "ITEM": "Regalia",
           "WEAPON": "Regalia"
         },
-
         "sectionsDict": {
-
           "Champion": {
             "title": "Champion",
+            "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "isGroupForbidden": true
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Allies": {
             "title": "Allies",
+            "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER"
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Regalia": {
             "title": "Regalia",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Domains": {
             "title": "Domains",
+            "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER"
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Phantasia": {
             "title": "Phantasia",
+            "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER"
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Intent": {
             "title": "Intent",
+            "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER"
-          },
-
-          "Stack": {
-            "title": "Stack",
-            "height": "HUGE",
             "alignment": "CENTER",
-            "isDefaultSection": true,
-            "isGroupForbidden": true
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           },
-
           "Memory": {
             "title": "Memory",
             "isHidden": "yes",
-            "alignment": "END"
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Memory",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           },
-
           "Banishment": {
             "title": "Banishment",
-            "alignment": "END"
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Banishment",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           }
         }
       }
