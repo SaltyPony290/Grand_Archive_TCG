@@ -119,23 +119,19 @@
                 {
                   "section": "Domains",
                   "style": {
-                    "width": "20vh",
-                    "marginRight": "1vh"
+                    "width": "20vh"
                   }
                 },
                 {
                   "section": "Champion",
                   "style": {
-                    "width": "20vh",
-                    "marginLeft": "2vh",
-                    "marginRight": "3vh"
+                    "width": "20vh"
                   }
                 },
                 {
                   "section": "Allies",
                   "style": {
-                    "flex": 1,
-                    "marginRight": "3vh"
+                    "flex": 1
                   }
                 },
                 {
