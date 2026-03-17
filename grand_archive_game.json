@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.png"
+      "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_bg.png"
     ],
     "decksUrl": "https://saltypony290.github.io/Grand_Archive_TCG/GrandArchiveDecks.json"
   },
