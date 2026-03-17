@@ -136,13 +136,13 @@
             },
             {
               "direction": "row",
+              "style": { "width": "100%" },
               "content": [
                 {
                   "section": "Memory",
                   "style": {
                     "marginTop": "1rem",
-                    "width": "20vh",
-                    "marginRight": "1vh"
+                    "flex": 1
                   }
                 },
                 {
