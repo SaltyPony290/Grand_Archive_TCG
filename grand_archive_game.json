@@ -118,19 +118,31 @@
               "content": [
                 {
                   "section": "Domains",
-                  "style": { "width": "18vh", "marginRight": "2vh" }
+                  "style": {
+                    "width": "14vh",
+                    "marginRight": "1vh"
+                  }
                 },
                 {
                   "section": "Champion",
-                  "style": { "marginRight": "2vh" }
+                  "style": {
+                    "width": "14vh",
+                    "marginLeft": "2vh",
+                    "marginRight": "3vh"
+                  }
                 },
                 {
                   "section": "Allies",
-                  "style": { "marginRight": "2vh" }
+                  "style": {
+                    "flex": 1,
+                    "marginRight": "3vh"
+                  }
                 },
                 {
                   "section": "Regalia",
-                  "style": { "width": "22vh" }
+                  "style": {
+                    "width": "20vh"
+                  }
                 }
               ]
             },
