@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://api.gatcg.com/cards/images/1tisZwrn8k.jpg"
+      "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_banner.png"
     ],
     "decksUrl": "https://saltypony290.github.io/Grand_Archive_TCG/GrandArchiveDecks.json"
   },
