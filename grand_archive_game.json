@@ -118,29 +118,74 @@
           "content": [
             {
               "direction": "column",
-              "style": { "width": "70%" },
+              "style": {
+                "width": "70%"
+              },
               "content": [
                 {
                   "direction": "row",
+                  "style": false,
                   "content": [
-                    { "section": "Domains" },
-                    { "section": "Champion" },
-                    { "section": "Regalia" }
-                  ]
+                    {
+                      "section": "Domains",
+                      "style": {
+                        "width": "18vh",
+                        "marginRight": "1vh"
+                      }
+                    },
+                    {
+                      "section": "Champion",
+                      "style": {
+                        "marginRight": "3vh"
+                      }
+                    },
+                    {
+                      "section": "Regalia",
+                      "style": {
+                        "width": "22vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 },
-                { "section": "Allies" },
-                { "section": "Phantasia" },
-                { "section": "Intent" },
-                { "section": "Stack" }
-              ]
+                {
+                  "section": "Allies",
+                  "style": {
+                    "marginTop": "0.5rem"
+                  }
+                },
+                {
+                  "section": "Phantasia",
+                  "style": {
+                    "marginTop": "0.5rem"
+                  }
+                },
+                {
+                  "section": "Intent",
+                  "style": {
+                    "marginTop": "0.5rem"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
-              "style": { "width": "24vh" },
+              "style": {
+                "width": "24vh",
+                "justifyContent": "start"
+              },
               "content": [
-                { "section": "Memory" },
-                { "section": "Banishment" }
-              ]
+                {
+                  "section": "Memory",
+                  "style": false
+                },
+                {
+                  "section": "Banishment",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
