@@ -65,7 +65,10 @@
         "drawNewSelectedCards": false
       },
 
-      "categoriesAlreadyOnBoard": ["Champion"],
+      "categoriesAlreadyOnBoard": [
+        "Champion",
+        "Material Deck"
+      ],
 
       "beforeGameStart": {
         "initialBoardSetup": []
@@ -104,7 +107,8 @@
           "Allies",
           "Regalia",
           "Domains",
-          "Memory"
+          "Memory",
+          "Material Deck"
         ],
         "layout": {
           "direction": "column",
@@ -135,6 +139,10 @@
             {
               "section": "Memory",
               "style": { "marginTop": "1rem" }
+            },
+            {
+              "section": "Material Deck",
+              "style": { "marginTop": "1rem"}
             }
           ]
         },
@@ -197,8 +205,16 @@
             "displayedTitle": "Memory",
             "isGroupForbidden": false,
             "isHorizontalAllowed": false
-          }
+          },
+          "Material Deck": {
+            "title": "Material Deck",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Material Deck"
         }
+       }
       }
     }
   }
