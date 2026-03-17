@@ -298,7 +298,7 @@
             "title": "Memory",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
