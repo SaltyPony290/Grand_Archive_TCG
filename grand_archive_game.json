@@ -106,8 +106,7 @@
           "Regalia",
           "Domains",
           "Memory",
-        ],
-
+        ]
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": true,
