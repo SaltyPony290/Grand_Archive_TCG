@@ -200,7 +200,7 @@
           "Regalia": {
             "title": "Regalia",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "isGroupForbidden": false,
             "isHorizontalAllowed": true
@@ -208,7 +208,7 @@
           "Domains": {
             "title": "Domains",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "isGroupForbidden": false,
             "isHorizontalAllowed": false
@@ -216,7 +216,7 @@
           "Memory": {
             "title": "Memory",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "LARGE",
             "alignment": "CENTER",
             "displayedTitle": "Memory",
             "isGroupForbidden": false,
