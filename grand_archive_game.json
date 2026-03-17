@@ -224,7 +224,7 @@
           },
           "Material Deck": {
             "title": "Material Deck",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
