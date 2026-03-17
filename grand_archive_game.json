@@ -65,11 +65,6 @@
         "drawNewSelectedCards": false
       },
 
-      "categoriesAlreadyOnBoard": [
-        "Champion",
-        "Material Deck"
-      ],
-
       "beforeGameStart": {
         "initialBoardSetup": []
       },
@@ -110,6 +105,11 @@
           "Memory",
           "Material Deck"
         ],
+
+        "categoriesAlreadyOnBoard": [
+          "Material Deck"
+        ],
+        
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": true,
@@ -137,14 +137,25 @@
               ]
             },
             {
-              "section": "Memory",
-              "style": { "marginTop": "1rem" }
-            },
-            {
-              "section": "Material Deck",
-              "style": { "marginTop": "1rem"}
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Memory",
+                  "style": {
+                    "marginTop": "1rem",
+                    "width": "20vh",
+                    "marginRight": "1vh"
+                  }
+                },
+                {
+                  "section": "Material Deck",
+                  "style": {
+                    "marginTop": "1rem",
+                    "width": "10vh"
+                  }
+                }
+              ]
             }
-          ]
         },
         "autoPlayFromHand": {
           "CHAMPION": "Champion",
@@ -208,7 +219,7 @@
           },
           "Material Deck": {
             "title": "Material Deck",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
