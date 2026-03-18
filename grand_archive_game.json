@@ -222,7 +222,7 @@
           },
           "Memory": {
             "title": "Memory",
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "CENTER",
             "displayedTitle": "Memory",
@@ -231,7 +231,7 @@
           },
           "Banish": {
             "title": "Banish",
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
@@ -239,7 +239,7 @@
           },
           "Material Deck": {
             "title": "Material Deck",
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "DECK",
             "isHorizontalAllowed": false,
