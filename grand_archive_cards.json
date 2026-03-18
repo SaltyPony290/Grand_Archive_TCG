@@ -2545,6 +2545,13 @@
         "cost": 3,
         "image": "https://api.gatcg.com/cards/images/l51jtpmz99.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Fatebound Caracal",
+        "type": "ALLY",
+        "cost": 3,
+        "image": "https://api.gatcg.com/cards/images/x8wc254ris.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -2880,6 +2887,13 @@
         "type": "ITEM",
         "cost": 4,
         "image": "https://api.gatcg.com/cards/images/fnmebi9g1z.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Obstinate Cragback",
+        "type": "ALLY",
+        "cost": 4,
+        "image": "https://api.gatcg.com/cards/images/40oe1wf79p.jpg",
         "isHorizontal": false
       }
     },
@@ -3264,6 +3278,13 @@
         "type": "ITEM",
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/pvt3dyd9hl.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Young Wyrmling",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/k98b6icmw9.jpg",
         "isHorizontal": false
       }
     },
@@ -4959,6 +4980,13 @@
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/oq4thcay04.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Cheetah of Bound Fury",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/vvfwwa13y9.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -5406,6 +5434,13 @@
         "type": "ITEM",
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/k3vi17q38q.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Firebird Trailblazer",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/ouj0b2l3gl.jpg",
         "isHorizontal": false
       }
     },
@@ -6421,6 +6456,13 @@
         "type": "ITEM",
         "cost": 3,
         "image": "https://api.gatcg.com/cards/images/4qlu3h72ef.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Heavenly Drake",
+        "type": "ALLY",
+        "cost": 3,
+        "image": "https://api.gatcg.com/cards/images/jej8y91lkg.jpg",
         "isHorizontal": false
       }
     },
@@ -9174,6 +9216,13 @@
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/my4ewbvtio.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Woodland Shoats",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/0qmwwihhn2.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -9333,6 +9382,13 @@
         "type": "ITEM",
         "cost": 3,
         "image": "https://api.gatcg.com/cards/images/c5owescxw5.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Airborne Squirrel",
+        "type": "ALLY",
+        "cost": 3,
+        "image": "https://api.gatcg.com/cards/images/d3e311f211.jpg",
         "isHorizontal": false
       }
     },
@@ -10213,6 +10269,13 @@
         "type": "ITEM",
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/zss3seprzg.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Bolstered Boar",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/0v8zzzb83i.jpg",
         "isHorizontal": false
       }
     },
@@ -13605,6 +13668,13 @@
         "type": "ITEM",
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/n0ymex2d5b.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Serpentine Judicator",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/koyegh1snb.jpg",
         "isHorizontal": false
       }
     },
@@ -18806,6 +18876,13 @@
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/k1fe1h278d.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Mocking Otter",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/84oyeld6dn.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -20038,6 +20115,13 @@
         "cost": 4,
         "image": "https://api.gatcg.com/cards/images/890bfcng82.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Slick Torrentrider",
+        "type": "ALLY",
+        "cost": 4,
+        "image": "https://api.gatcg.com/cards/images/u4q9qrmpef.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -20533,6 +20617,13 @@
         "type": "ITEM",
         "cost": 2,
         "image": "https://api.gatcg.com/cards/images/k9fuegkoep.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Commanding Sea Titan",
+        "type": "ALLY",
+        "cost": 2,
+        "image": "https://api.gatcg.com/cards/images/y5e4a8a23l.jpg",
         "isHorizontal": false
       }
     },
@@ -21526,6 +21617,13 @@
         "cost": 6,
         "image": "https://api.gatcg.com/cards/images/1ad93vlnnp.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Daunting Panda",
+        "type": "ALLY",
+        "cost": 6,
+        "image": "https://api.gatcg.com/cards/images/ilpxd1q0vp.jpg",
+        "isHorizontal": false
       }
     },
     "isHorizontal": false,
@@ -21877,6 +21975,13 @@
         "type": "ITEM",
         "cost": 3,
         "image": "https://api.gatcg.com/cards/images/8wq7de4dde.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Windstalker Wolf",
+        "type": "ALLY",
+        "cost": 3,
+        "image": "https://api.gatcg.com/cards/images/z4fr707pbr.jpg",
         "isHorizontal": false
       }
     },
@@ -24725,6 +24830,13 @@
         "type": "ITEM",
         "cost": 3,
         "image": "https://api.gatcg.com/cards/images/ai5n9t7q4x.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Elder Mandrill",
+        "type": "ALLY",
+        "cost": 3,
+        "image": "https://api.gatcg.com/cards/images/wu20yoje86.jpg",
         "isHorizontal": false
       }
     },
