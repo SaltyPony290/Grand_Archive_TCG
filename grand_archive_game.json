@@ -10,7 +10,7 @@
 
   "customHelp": "(1) Place your level 0 champion from the Material Deck onto the Champion zone.\n(2) Materialize regalia and champion upgrades from the Material Deck.\n(3) Actions and attacks go to the Stack, then move them to Graveyard after resolution.\n(4) Use counters to track damage and buffs.\n(5) Memory is hidden/private. Banishment is public.\n(6) Allies, Domains, Regalia, and Phantasia auto-place when played.",
 
-  "cardRotation": 0,
+  "cardRotation": "90",
 
   "cards": {
     "dataUrl": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_cards.json",
