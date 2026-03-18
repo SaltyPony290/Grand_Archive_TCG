@@ -1616,7 +1616,7 @@
       }
     },
     "tokens": [
-      "Rile the Abyss"
+      "DTR-132"
     ],
     "isHorizontal": false,
     "cost": 0
@@ -1923,7 +1923,7 @@
       }
     },
     "tokens": [
-      "Icebound Slam"
+      "MRC-117"
     ],
     "isHorizontal": false,
     "cost": 0
@@ -1958,7 +1958,7 @@
       }
     },
     "tokens": [
-      "Creeping Torment"
+      "ALC-204"
     ],
     "isHorizontal": false,
     "cost": 3
@@ -24986,7 +24986,7 @@
       }
     },
     "tokens": [
-      "Creeping Torment"
+      "ALC-204"
     ],
     "isHorizontal": false,
     "cost": 3
