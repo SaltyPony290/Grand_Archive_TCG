@@ -103,6 +103,7 @@
           "Regalia",
           "Domains",
           "Memory",
+          "Banish",
           "Material Deck"
         ],
         "categoriesAlreadyOnBoard": [
@@ -150,6 +151,12 @@
                   "section": "Memory",
                   "style": {
                     "flex": 1
+                  }
+                },
+                {
+                  "section": "Banish",
+                  "style": {
+                    "width": "10vh"
                   }
                 },
                 {
@@ -221,6 +228,14 @@
             "displayedTitle": "Memory",
             "isGroupForbidden": false,
             "isHorizontalAllowed": false
+          },
+          "Banish": {
+            "title": "Banish",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Banish"
           },
           "Material Deck": {
             "title": "Material Deck",
