@@ -1,6 +1,6 @@
 [
   {
-    "title": "Guo Jia Fatestone",
+    "title": "Guo Jia Re:Collection, Heaven's Favored",
     "id": "cbee7540-dc13-45e8-9723-2d10b043bcfd",
     "game": "Grand Archive",
     "format": "Standard",
@@ -135,6 +135,1978 @@
         {
           "count": 3,
           "id": "ReC-HVF-031"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Diao Chan Re:Collection, Idyll Corsage",
+    "id": "1fde0417-e3f6-45dc-8a46-2065bdfa0d8e",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:15:57.852764+00:00",
+    "lastModifiedAt": "2026-03-18T14:15:57.852773+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-002"
+        },
+        {
+          "count": 1,
+          "id": "HVN-004"
+        },
+        {
+          "count": 1,
+          "id": "HVN-005"
+        },
+        {
+          "count": 1,
+          "id": "HVN-006"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-016"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-006"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-007"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-019"
+        },
+        {
+          "count": 1,
+          "id": "ALC-035"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-010"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-011"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-012"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 3,
+          "id": "FTC-033"
+        },
+        {
+          "count": 2,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 3,
+          "id": "HVN-063"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-016"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-017"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-018"
+        },
+        {
+          "count": 4,
+          "id": "ReC-IDY-019"
+        },
+        {
+          "count": 4,
+          "id": "ReC-IDY-020"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-021"
+        },
+        {
+          "count": 2,
+          "id": "DTR-150"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-023"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-024"
+        },
+        {
+          "count": 2,
+          "id": "ReC-IDY-025"
+        },
+        {
+          "count": 2,
+          "id": "FTC-067"
+        },
+        {
+          "count": 1,
+          "id": "ReC-IDY-027"
+        },
+        {
+          "count": 2,
+          "id": "AMB-146"
+        },
+        {
+          "count": 2,
+          "id": "AMB-160"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-031"
+        },
+        {
+          "count": 2,
+          "id": "ReC-IDY-032"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-033"
+        },
+        {
+          "count": 2,
+          "id": "ReC-IDY-038"
+        },
+        {
+          "count": 3,
+          "id": "ReC-IDY-039"
+        },
+        {
+          "count": 2,
+          "id": "ReC-IDY-040"
+        }
+      ]
+    }
+  },
+ {
+    "title": "Kongming Starter Deck",
+    "id": "e0d8ea34-8c8c-4417-a641-33f52c514985",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:17:40.555452+00:00",
+    "lastModifiedAt": "2026-03-18T14:17:40.555461+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-002"
+        },
+        {
+          "count": 1,
+          "id": "AMB-007"
+        },
+        {
+          "count": 1,
+          "id": "AMB-008"
+        },
+        {
+          "count": 1,
+          "id": "AMB-009"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-021"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-011"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-014"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-019"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-018"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-021"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-022"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "AMBSD-023"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-025"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-026"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-027"
+        },
+        {
+          "count": 2,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-034"
+        },
+        {
+          "count": 3,
+          "id": "AMB-093"
+        },
+        {
+          "count": 3,
+          "id": "AMB-130"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-039"
+        },
+        {
+          "count": 3,
+          "id": "AMB-138"
+        },
+        {
+          "count": 3,
+          "id": "AMB-149"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-042"
+        },
+        {
+          "count": 3,
+          "id": "AMB-161"
+        },
+        {
+          "count": 2,
+          "id": "AMB-162"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-057"
+        },
+        {
+          "count": 3,
+          "id": "AMB-222"
+        },
+        {
+          "count": 1,
+          "id": "AMB-224"
+        },
+        {
+          "count": 2,
+          "id": "AMB-225"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-274"
+        }
+      ]
+    }
+  },
+{
+    "title": "Silvie Re:Collection, Slime Sovereign",
+    "id": "f186c2c0-9ad4-4219-bc1c-ff12977b80d0",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:19:03.682322+00:00",
+    "lastModifiedAt": "2026-03-18T14:19:03.682331+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ReC-SLM-001"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-010"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-011"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SLM-004"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-022"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-024"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-025"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SLM-008"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SLM-010"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SLM-011"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SLM-012"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "ReC-SLM-013"
+        },
+        {
+          "count": 4,
+          "id": "SP3-008"
+        },
+        {
+          "count": 3,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "ReC-SLM-016"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-109"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-110"
+        },
+        {
+          "count": 4,
+          "id": "ReC-SLM-019"
+        },
+        {
+          "count": 2,
+          "id": "FTC-056"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-021"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-022"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-162"
+        },
+        {
+          "count": 4,
+          "id": "ReC-SLM-024"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-025"
+        },
+        {
+          "count": 2,
+          "id": "FTC-075"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-027"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SLM-028"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SLM-029"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SLM-030"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-031"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SLM-032"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SLM-033"
+        }
+      ]
+    }
+  },
+{
+    "title": "Diana Starter Deck",
+    "id": "47e5881a-2f1a-4810-a146-4aba229ad106",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:20:06.754243+00:00",
+    "lastModifiedAt": "2026-03-18T14:20:06.754252+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-001"
+        },
+        {
+          "count": 1,
+          "id": "ALC-008"
+        },
+        {
+          "count": 1,
+          "id": "ALC-009"
+        },
+        {
+          "count": 1,
+          "id": "ALC-011"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-013"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-018"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-022"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-024"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-026"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-029"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-031"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-036"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "ALCSD-039"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-043"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-050"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-055"
+        },
+        {
+          "count": 3,
+          "id": "ALC-073"
+        },
+        {
+          "count": 2,
+          "id": "ALC-085"
+        },
+        {
+          "count": 3,
+          "id": "ALC-087"
+        },
+        {
+          "count": 1,
+          "id": "ALC-088"
+        },
+        {
+          "count": 3,
+          "id": "ALC-090"
+        },
+        {
+          "count": 3,
+          "id": "ALC-094"
+        },
+        {
+          "count": 3,
+          "id": "ALC-096"
+        },
+        {
+          "count": 2,
+          "id": "ALC-109"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-073"
+        },
+        {
+          "count": 2,
+          "id": "ALC-117"
+        },
+        {
+          "count": 1,
+          "id": "ALC-202"
+        },
+        {
+          "count": 4,
+          "id": "ALC-204"
+        },
+        {
+          "count": 3,
+          "id": "ALC-209"
+        },
+        {
+          "count": 2,
+          "id": "ALC-212"
+        },
+        {
+          "count": 3,
+          "id": "ALC-213"
+        },
+        {
+          "count": 1,
+          "id": "ALC-214"
+        }
+      ]
+    }
+  },
+{
+    "title": "Arisanna Starter Deck",
+    "id": "09c21f8d-ca93-4380-a11a-4f2b6fda5e5a",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:20:51.165104+00:00",
+    "lastModifiedAt": "2026-03-18T14:20:51.165113+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-002"
+        },
+        {
+          "count": 1,
+          "id": "ALC-004"
+        },
+        {
+          "count": 1,
+          "id": "ALC-005"
+        },
+        {
+          "count": 1,
+          "id": "ALC-006"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-016"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-019"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DTR-015"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-025"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-027"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-028"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-033"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 3,
+          "id": "ALC-041"
+        },
+        {
+          "count": 3,
+          "id": "ALC-045"
+        },
+        {
+          "count": 3,
+          "id": "ALC-047"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-044"
+        },
+        {
+          "count": 3,
+          "id": "ALC-069"
+        },
+        {
+          "count": 3,
+          "id": "ALC-076"
+        },
+        {
+          "count": 3,
+          "id": "ALC-078"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-075"
+        },
+        {
+          "count": 3,
+          "id": "ALC-131"
+        },
+        {
+          "count": 3,
+          "id": "ALC-136"
+        },
+        {
+          "count": 2,
+          "id": "ALC-138"
+        },
+        {
+          "count": 2,
+          "id": "ALC-139"
+        },
+        {
+          "count": 2,
+          "id": "ALC-140"
+        },
+        {
+          "count": 3,
+          "id": "ALC-141"
+        },
+        {
+          "count": 3,
+          "id": "ALC-148"
+        },
+        {
+          "count": 2,
+          "id": "AMB-162"
+        },
+        {
+          "count": 3,
+          "id": "ALC-179"
+        },
+        {
+          "count": 3,
+          "id": "ALC-183"
+        },
+        {
+          "count": 2,
+          "id": "ALC-184"
+        },
+        {
+          "count": 4,
+          "id": "ALC Alter-235"
+        },
+        {
+          "count": 1,
+          "id": "ALC-185"
+        },
+        {
+          "count": 1,
+          "id": "ALC-187"
+        }
+      ]
+    }
+  },
+{
+    "title": "Tristan Re:Collection, Shadowdancer",
+    "id": "055613c2-2c8d-4209-ad96-a59b77bd670c",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:21:41.536337+00:00",
+    "lastModifiedAt": "2026-03-18T14:21:41.536346+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-003"
+        },
+        {
+          "count": 1,
+          "id": "MRC-004"
+        },
+        {
+          "count": 1,
+          "id": "MRC-005"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-004"
+        },
+        {
+          "count": 1,
+          "id": "ReC-BRV-005"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-031"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-048"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-009"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-010"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-011"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-012"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "DTR-059"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 3,
+          "id": "PTM-041"
+        },
+        {
+          "count": 1,
+          "id": "ReC-SHD-016"
+        },
+        {
+          "count": 4,
+          "id": "ReC-SHD-017"
+        },
+        {
+          "count": 3,
+          "id": "AMB-081"
+        },
+        {
+          "count": 2,
+          "id": "FTC-049"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-199"
+        },
+        {
+          "count": 4,
+          "id": "PTM-134"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SHD-022"
+        },
+        {
+          "count": 4,
+          "id": "ALC-168"
+        },
+        {
+          "count": 4,
+          "id": "ReC-SHD-024"
+        },
+        {
+          "count": 2,
+          "id": "HVN-174"
+        },
+        {
+          "count": 4,
+          "id": "PTM-153"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SHD-027"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SHD-028"
+        },
+        {
+          "count": 2,
+          "id": "ReC-SHD-029"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SHD-031"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SHD-032"
+        },
+        {
+          "count": 3,
+          "id": "ReC-SHD-033"
+        }
+      ]
+    }
+  },
+{
+    "title": "Lorraine Starter Deck",
+    "id": "a81ea893-55dc-4c19-b1e6-481b5a7e9704",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:22:31.514863+00:00",
+    "lastModifiedAt": "2026-03-18T14:22:31.514871+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-003"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-004"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-005"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-005"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-021"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-012"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-036"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-046"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-056"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-058"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-029"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 3,
+          "id": "DOA Alter-071"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-079"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-080"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-085"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-091"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-093"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-100"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-107"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-112"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-113"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-115"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-116"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-213"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-214"
+        },
+        {
+          "count": 1,
+          "id": "AMB-186"
+        },
+        {
+          "count": 2,
+          "id": "DOAp-093"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-225"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-231"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-248"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-251"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-111"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-254"
+        },
+        {
+          "count": 3,
+          "id": "DOAp-113"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-256"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Silvie Starter Deck",
+    "id": "9fc46956-c82f-4cfa-b7e7-e9815f415eee",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:23:35.043818+00:00",
+    "lastModifiedAt": "2026-03-18T14:23:35.043826+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-002"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-010"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-011"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-009"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-023"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-024"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-025"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-016"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-043"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-060"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-031"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "DOA Alter-073"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-083"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-089"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-104"
+        },
+        {
+          "count": 2,
+          "id": "ALC-076"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-109"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-110"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-114"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-162"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-165"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-166"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-170"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-172"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-173"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-177"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-180"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-184"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-186"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-270"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-272"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-273"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-274"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-275"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Diana, Moonpiercer",
+    "id": "e577f21f-5f8e-4360-8e00-e1b016b4944b",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:24:28.073573+00:00",
+    "lastModifiedAt": "2026-03-18T14:24:28.073585+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-002"
+        },
+        {
+          "count": 1,
+          "id": "DTR-008"
+        },
+        {
+          "count": 1,
+          "id": "DTR-009"
+        },
+        {
+          "count": 1,
+          "id": "DTR-010"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-021"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-011"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-016"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-017"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-018"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-019"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-020"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-021"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "DTRSD-023"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-039"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-025"
+        },
+        {
+          "count": 3,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-032"
+        },
+        {
+          "count": 4,
+          "id": "ALC-073"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-064"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-043"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-044"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-045"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-046"
+        },
+        {
+          "count": 3,
+          "id": "ALC-179"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-049"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-050"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-051"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-052"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-053"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-054"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ciel, Mirage's Grave",
+    "id": "605bd506-e8d7-44f3-b3de-b9173b6bdfd8",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:26:07.622280+00:00",
+    "lastModifiedAt": "2026-03-18T14:26:07.622290+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-001"
+        },
+        {
+          "count": 1,
+          "id": "DTR-005"
+        },
+        {
+          "count": 1,
+          "id": "DTR-006"
+        },
+        {
+          "count": 1,
+          "id": "DTR-007"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-021"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-014"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-012"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-013"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-015"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-019"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-022"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 3,
+          "id": "DTRSD-026"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-047"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-029"
+        },
+        {
+          "count": 2,
+          "id": "ALCSD-054"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-031"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-034"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-064"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-037"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-038"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-039"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-040"
+        },
+        {
+          "count": 3,
+          "id": "DOAp-083"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-042"
+        },
+        {
+          "count": 1,
+          "id": "DTRSD-055"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-056"
+        },
+        {
+          "count": 4,
+          "id": "DTRSD-057"
+        },
+        {
+          "count": 2,
+          "id": "DTRSD-058"
+        },
+        {
+          "count": 3,
+          "id": "DTRSD-059"
+        },
+        {
+          "count": 3,
+          "id": "ALC-212"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jin Starter Deck",
+    "id": "95882028-6287-4f4e-b495-dfca3d1cd269",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:27:59.386939+00:00",
+    "lastModifiedAt": "2026-03-18T14:27:59.386948+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-003"
+        },
+        {
+          "count": 1,
+          "id": "AMB-004"
+        },
+        {
+          "count": 1,
+          "id": "AMB-005"
+        },
+        {
+          "count": 1,
+          "id": "AMB-006"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-021"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-010"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-049"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-015"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-016"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-019"
+        },
+        {
+          "count": 1,
+          "id": "AMBSD-020"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 2,
+          "id": "DOA Alter-071"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-029"
+        },
+        {
+          "count": 3,
+          "id": "AMB-072"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-031"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-032"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-114"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-115"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-045"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-213"
+        },
+        {
+          "count": 3,
+          "id": "AMB-184"
+        },
+        {
+          "count": 2,
+          "id": "DOAp-093"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-225"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-231"
+        },
+        {
+          "count": 2,
+          "id": "AMB-202"
+        },
+        {
+          "count": 4,
+          "id": "AMBSD-052"
+        },
+        {
+          "count": 2,
+          "id": "AMB-206"
+        },
+        {
+          "count": 2,
+          "id": "AMB-208"
+        },
+        {
+          "count": 2,
+          "id": "AMB-210"
+        },
+        {
+          "count": 1,
+          "id": "SP3-019"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Tonoris Starter Deck",
+    "id": "bcd07b8e-9245-4983-a8de-f01003bc6fbb",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:28:33.404236+00:00",
+    "lastModifiedAt": "2026-03-18T14:28:33.404245+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-003"
+        },
+        {
+          "count": 1,
+          "id": "ALC-012"
+        },
+        {
+          "count": 1,
+          "id": "ALC-013"
+        },
+        {
+          "count": 1,
+          "id": "ALC-015"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-014"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-015"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-017"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-023"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-030"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-032"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-034"
+        },
+        {
+          "count": 1,
+          "id": "ALCSD-035"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 4,
+          "id": "ALCSD-045"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-047"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-049"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-051"
+        },
+        {
+          "count": 3,
+          "id": "ALC-060"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-054"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-056"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-064"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-068"
+        },
+        {
+          "count": 3,
+          "id": "ALC-155"
+        },
+        {
+          "count": 4,
+          "id": "ALCSD-085"
+        },
+        {
+          "count": 3,
+          "id": "ALC-167"
+        },
+        {
+          "count": 2,
+          "id": "ALC-176"
+        },
+        {
+          "count": 3,
+          "id": "ALC-177"
+        },
+        {
+          "count": 1,
+          "id": "ALC-190"
+        },
+        {
+          "count": 3,
+          "id": "ALC-195"
+        },
+        {
+          "count": 3,
+          "id": "ALC-200"
+        },
+        {
+          "count": 3,
+          "id": "ALC-201"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rai Starter Deck",
+    "id": "88c62385-7431-48b5-a5f1-e2ff31680387",
+    "game": "Grand Archive",
+    "format": "Standard",
+    "cardCount": 60,
+    "materialCardCount": 12,
+    "createdAt": "2026-03-18T14:29:26.379532+00:00",
+    "lastModifiedAt": "2026-03-18T14:29:26.379542+00:00",
+    "deckList": {
+      "categoriesOrder": [
+        "Material Deck",
+        "Main Deck"
+      ],
+      "Material Deck": [
+        {
+          "count": 1,
+          "id": "ALC-001"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-007"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-008"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-008"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-030"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-014"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-040"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-041"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-054"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-057"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-059"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-028"
+        }
+      ],
+      "Main Deck": [
+        {
+          "count": 3,
+          "id": "DOA Alter-072"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-074"
+        },
+        {
+          "count": 2,
+          "id": "ALCSD-048"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-097"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-098"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-102"
+        },
+        {
+          "count": 4,
+          "id": "ALC-076"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-121"
+        },
+        {
+          "count": 2,
+          "id": "AMB-098"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-126"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-128"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-134"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-136"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-138"
+        },
+        {
+          "count": 4,
+          "id": "DOA Alter-140"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-143"
+        },
+        {
+          "count": 2,
+          "id": "DOA Alter-149"
+        },
+        {
+          "count": 2,
+          "id": "DOAp-101"
+        },
+        {
+          "count": 4,
+          "id": "HVN-184"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-240"
+        },
+        {
+          "count": 3,
+          "id": "DOA Alter-242"
+        },
+        {
+          "count": 1,
+          "id": "DOAp-105KS"
+        },
+        {
+          "count": 1,
+          "id": "DOA Alter-247"
         }
       ]
     }
