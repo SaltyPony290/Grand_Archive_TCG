@@ -972,6 +972,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Cosmic Bolt"
+    ],
     "isHorizontal": false,
     "cost": 1
   },
@@ -1612,6 +1615,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Rile the Abyss"
+    ],
     "isHorizontal": false,
     "cost": 0
   },
@@ -1916,6 +1922,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Icebound Slam"
+    ],
     "isHorizontal": false,
     "cost": 0
   },
@@ -1948,6 +1957,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Creeping Torment"
+    ],
     "isHorizontal": false,
     "cost": 3
   },
@@ -2163,6 +2175,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Arcane Blast"
+    ],
     "isHorizontal": false,
     "cost": 10
   },
@@ -18163,6 +18178,7 @@
   },
   "MRC-117": {
     "id": "MRC-117",
+    "isToken": true,
     "name": "Icebound Slam",
     "type": "ATTACK",
     "face": {
@@ -19802,6 +19818,7 @@
   },
   "DTR-132": {
     "id": "DTR-132",
+    "isToken": true,
     "name": "Rile the Abyss",
     "type": "ACTION",
     "face": {
@@ -24968,6 +24985,9 @@
         "isHorizontal": false
       }
     },
+    "tokens": [
+      "Creeping Torment"
+    ],
     "isHorizontal": false,
     "cost": 3
   },
@@ -25261,6 +25281,7 @@
   },
   "HVN-184": {
     "id": "HVN-184",
+    "isToken": true,
     "name": "Arcane Blast",
     "type": "ACTION",
     "face": {
@@ -27213,6 +27234,7 @@
   },
   "ALC-204": {
     "id": "ALC-204",
+    "isToken": true,
     "name": "Creeping Torment",
     "type": "PHANTASIA",
     "face": {
@@ -29181,6 +29203,7 @@
   },
   "ALC Alter-235": {
     "id": "ALC Alter-235",
+    "isToken": true,
     "name": "Cosmic Bolt",
     "type": "ACTION",
     "face": {
