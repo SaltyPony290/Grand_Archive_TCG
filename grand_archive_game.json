@@ -19,7 +19,7 @@
 
   "cards": {
     "dataUrl": "https://saltypony290.github.io/Grand_Archive_TCG/grand_archive_cards.json",
-    "cardBack": "https://saltypony290.github.io/Grand_Archive_TCG/card_back.jpg"
+    "cardBack": "https://saltypony290.github.io/Grand_Archive_TCG/Pictures/card_back.jpg"
   },
 
   "deckBuilding": {
